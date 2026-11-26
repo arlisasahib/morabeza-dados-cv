@@ -37,4 +37,5 @@ python -m morabeza.resumo data/vendas_amostra.csv
 Formanda : Arlisa Sahib
 Ilha: São Vicente
 
+
 Repositório da Arlisa Sahib.
